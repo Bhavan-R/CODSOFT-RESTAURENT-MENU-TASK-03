@@ -216,7 +216,7 @@ git commit -m "Restaurant Menu UI Project"
 ## Connect GitHub Repository
 
 ```bash
-git remote add origin https://github.com/your-username/restaurant-menu.git
+git remote add origin https://github.com/Bhavan-R/CODSOFT-RESTAURENT-MENU-TASK-03.git
 ```
 
 ---
